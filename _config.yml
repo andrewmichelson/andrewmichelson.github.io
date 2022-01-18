@@ -26,7 +26,7 @@ author:
 
 
 # URL settings
-url: "http:andrewmichelson.github.io" # Domain Name of host. [username].github.io for github pages
+url: "https://andrewmichelson.github.io" # Domain Name of host. [username].github.io for github pages
 permalink: pretty
 
 markdown: kramdown
@@ -48,7 +48,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-relative-links
-paginate: 5
+paginate: 4
 paginate_path: "/page/:num"
 
 collections:

@@ -81,7 +81,7 @@ body{
   align-items: center;
   padding: 5px 10px;
   margin-bottom: 5px;
-  background:var(--bg-color);
+  background: #F5F5F5;
   border:1px dashed var(--border-color);
 }
 

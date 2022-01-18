@@ -25,9 +25,10 @@ layout: default
     </div>
 </div>
 
-<hr>
-<h2>Recent Activity</h2>
+
+
 <div class="post-container">
+	<hr>
 	{% for post in paginator.posts %}
         <div class="post-list">
             <a class="post-title" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>

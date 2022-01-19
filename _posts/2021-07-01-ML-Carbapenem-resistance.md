@@ -1,6 +1,6 @@
 ---
 title: "A Pragmatic Machine Learning Model To Predict Carbapenem Resistance"
-date: 2021-07-01T00:00:00+00:00
+date: 2021-07-01T01:00:00+00:00
 author: Andrew P. Michelson, MD
 layout: post
 permalink: /ML-predict-carbapenem-resistance/

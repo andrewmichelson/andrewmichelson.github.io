@@ -5,7 +5,7 @@ author: Andrew P. Michelson, MD
 layout: post
 permalink: /ML-predict-carbapenem-resistance/
 categories: publication
-tags: [sepsis, publication, early warning systems]
+tags: [sepsis, publication, antimicrobial stewardship, AI/ML, prediction models]
 ---
 
 #### A Pragmatic Machine Learning Model To Predict Carbapenem Resistance

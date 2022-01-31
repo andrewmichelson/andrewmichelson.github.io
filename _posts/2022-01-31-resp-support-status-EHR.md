@@ -12,4 +12,4 @@ tags: [EHR, publication, oxygenation, mechanical ventilation, respiratory suppor
 
 Our latest manuscript detailing a framework for extracting respiratory support status from the EHR was was accepted for publication in JAMIA!
 <br>
-[https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac005/6517187]
+https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac005/6517187

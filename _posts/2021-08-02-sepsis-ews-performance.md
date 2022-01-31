@@ -1,5 +1,5 @@
 ---
-title: "Comparison of early warning scores for sepsis early identification and prediction in the general ward setting"
+title: "[publication] Comparison of early warning scores for sepsis early identification and prediction in the general ward setting"
 date: 2021-08-02T00:00:00+00:00
 author: Andrew P. Michelson, MD
 layout: post

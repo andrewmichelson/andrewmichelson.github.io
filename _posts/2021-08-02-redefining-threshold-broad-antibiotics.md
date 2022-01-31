@@ -1,11 +1,11 @@
 ---
-title: "Redefining the Threshold for Broad-Spectrum Antibiotics"
+title: "[review] Redefining the Threshold for Broad-Spectrum Antibiotics"
 date: 2021-08-02T12:00:00+00:00
 author: Andrew P. Michelson, MD
 layout: post
 permalink: /editorial-redefining-threshold-broad-antibiotics/
 categories: publication
-tags: [sepsis, editorial, antibiotics, antimicrobial stewardship]
+tags: [sepsis, review, antibiotics, antimicrobial stewardship]
 ---
 
 #### Redefining the Threshold for Broad-Spectrum Antibiotics

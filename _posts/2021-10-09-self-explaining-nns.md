@@ -13,5 +13,4 @@ tags: [neural networks, explainability, AI/ML, prediction models]
 Check out some of our exciting work exploring explainability using neural networks within a framework of organ dysfunction. 
 <br>
 
-[https://arxiv.org/abs/2110.04598
-](https://arxiv.org/abs/2110.04598)
+https://arxiv.org/abs/2110.04598

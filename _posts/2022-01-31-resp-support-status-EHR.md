@@ -3,7 +3,7 @@ title: "Respiratory support status from EHR data for adult population: classific
 date: 2022-01-31T00:00:00+00:00
 author: Andrew P. Michelson, MD
 layout: post
-permalink: /sepsis-definitions-automated-criteria/
+permalink: /resp-support-status-EHR/
 categories: publication
 tags: [EHR, publication, oxygenation, mechanical ventilation, respiratory support]
 ---
@@ -12,4 +12,4 @@ tags: [EHR, publication, oxygenation, mechanical ventilation, respiratory suppor
 
 Our latest manuscript detailing a framework for extracting respiratory support status from the EHR was was accepted for publication in JAMIA!
 <br>
-[https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac005/6517187)
+[https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac005/6517187]

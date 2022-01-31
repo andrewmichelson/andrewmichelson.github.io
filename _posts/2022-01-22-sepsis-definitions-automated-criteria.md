@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Sepsis Definitions as Automated Criteria"
+title: "[publication] Comparison of Sepsis Definitions as Automated Criteria"
 date: 2021-04-01T00:00:00+00:00
 author: Andrew P. Michelson, MD
 layout: post

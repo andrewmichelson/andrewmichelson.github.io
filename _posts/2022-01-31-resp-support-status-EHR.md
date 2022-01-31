@@ -5,7 +5,7 @@ author: Andrew P. Michelson, MD
 layout: post
 permalink: /sepsis-definitions-automated-criteria/
 categories: publication
-tags: [sepsis, publication, cohorts, sepsis criteria]
+tags: [EHR, publication, oxygenation, mechanical ventilation, respiratory support]
 ---
 
 #### Respiratory support status from EHR data for adult population: classification, heuristics, and usage in predictive modeling

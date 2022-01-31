@@ -1,5 +1,5 @@
 ---
-title: "Self-explaining Neural Network with Plausible Explanations"
+title: "[publication] Self-explaining Neural Network with Plausible Explanations"
 date: 2021-10-09T01:00:00+00:00
 author: Andrew P. Michelson, MD
 layout: post

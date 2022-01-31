@@ -1,5 +1,5 @@
 ---
-title: "Respiratory support status from EHR data for adult population: classification, heuristics, and usage in predictive modeling"
+title: "[publication] Respiratory support status from EHR data for adult population: classification, heuristics, and usage in predictive modeling"
 date: 2022-01-31T00:00:00+00:00
 author: Andrew P. Michelson, MD
 layout: post

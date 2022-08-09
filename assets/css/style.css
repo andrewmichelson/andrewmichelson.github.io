@@ -95,7 +95,7 @@ body{
   display: flex; 
   flex-direction: row; 
   flex-wrap: wrap; 
-  align-items: center;
+  align-items: left;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -103,7 +103,7 @@ body{
 .post-tag{margin-bottom: 5px;}
 
 .tags{display: flex; flex-wrap: wrap; justify-content: start;}
-.tag{background: var(--bg-color); padding: 5px 10px; margin-right: 0px; margin-left: 4px; margin-bottom: 10px; display: flex; align-items: center;}
+.tag{background: var(--bg-color); padding: 5px 10px; margin-right: 0px; margin-left: 4px; margin-bottom: 10px; display: flex; align-items: left;}
 
 .navigation{
   width: 100%; 

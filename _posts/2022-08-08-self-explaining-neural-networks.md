@@ -5,7 +5,7 @@ author: Andrew P. Michelson, MD
 layout: post
 permalink: /self-explaining-neural-networks/
 categories: publication
-tags: [xai deep learning AI/ML predictive modeling]
+tags: [xai, deep learning, AI/ML, predictive modeling]
 ---
 
 #### Self-explaining neural network with concept-based explanations for ICU mortality prediction <br>

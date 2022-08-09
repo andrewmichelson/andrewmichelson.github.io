@@ -100,7 +100,7 @@ body{
   margin-bottom: 20px;
 }
 
-.post-tag{margin-bottom: 5px;}
+.post-tag{margin-bottom: 0px;}
 
 .tags{display: flex; flex-wrap: wrap; justify-content: start;}
 .tag{background: var(--bg-color); padding: 5px 10px; margin-right: 0px; margin-left: 4px; margin-bottom: 10px; display: flex; align-items: left;}

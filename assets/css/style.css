@@ -102,7 +102,7 @@ body{
 
 .post-tag{margin-bottom: 5px;}
 
-.tags{display: flex; flex-wrap: wrap; justify-content: space-between;}
+.tags{display: flex; flex-wrap: wrap; justify-content: start;}
 .tag{background: var(--bg-color); padding: 5px 10px; margin-right: 10px; margin-bottom: 10px; display: flex; align-items: center;}
 
 .navigation{
@@ -114,7 +114,7 @@ body{
   align-items: center;
   margin-bottom: 5px;
   background:var(--post-list-bkg-color);
-  border:1px dashed var(--border-color);
+  border:1px solid var(--border-color);
 
 }
 .navigation .prev{width: 45%; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; color: var(--primary-font-color); font-weight: 400; padding: 5px 10px;}

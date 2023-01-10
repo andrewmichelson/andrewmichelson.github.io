@@ -1,4 +1,3 @@
-
 ---
 title: "[publication] Hospital trajectories and early predictors of clinical outcomes differ between SARS-CoV-2 and influenza pneumonia"
 date: 2022-12-15T00:00:00+00:00

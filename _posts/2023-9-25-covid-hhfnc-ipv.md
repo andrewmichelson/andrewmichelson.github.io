@@ -3,7 +3,7 @@ title: "[publication] Use of Inhaled Epoprostenol in Patients With COVID-19 Rece
 date: 2023-09-25T00:00:00+00:00
 author: Michelson, Andrew P
 layout: post
-permalink: /2023-9-25-covid-hhfnc-ipv.md/
+permalink: /2023-9-25-covid-hhfnc-ipv/
 categories: publication
 tags: [informatics, COVID-19, HHFNC, COVID-19]
 ---

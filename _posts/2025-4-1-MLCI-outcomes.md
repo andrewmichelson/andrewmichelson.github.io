@@ -1,5 +1,5 @@
 ---
-## title: “[publication"] Machine Learning Feasibility in Cochlear Implant Speech Perception Outcomes – Moving beyond Single Biomarkers for Cochlear Implant Performance Prediction.”
+title: “[publication"] Machine Learning Feasibility in Cochlear Implant Speech Perception Outcomes – Moving beyond Single Biomarkers for Cochlear Implant Performance Prediction.”
 date: 2025-04-01T00:00:00+00:00
 author: Shew, Matthew A; Pavelchek, Cole; Michelson, Andrew; Ortmann, Amanda; Lefler, Shannon; Walia, Amit; Durakovic, Nedim; Phillips, Alisa; Rejepova, Ayna; Herzog, Jacques A; Payne, Phillip; Piccirillo, Jay F; Buchman, Craig A
 layout: post

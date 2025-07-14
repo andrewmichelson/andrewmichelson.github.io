@@ -15,4 +15,3 @@ We present a multi‑modal machine learning framework integrating donor‑lung C
 This work supports the added value of CT‑derived imaging phenotypes in donor acceptance decision tools and paves the way toward a clinically deployable decision support system.
 
 [https://doi.org/10.1016/j.ajt.2025.01.039](https://doi.org/10.1016/j.ajt.2025.01.039)
-)

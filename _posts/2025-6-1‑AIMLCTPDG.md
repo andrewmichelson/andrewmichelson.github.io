@@ -1,6 +1,6 @@
 ---
 title: "[publication] Developing approaches to incorporate donor‑lung computed tomography images into machine learning models to predict severe primary graft dysfunction after lung transplantation."
-date: 2025-06-1T00:00:00+00:00
+date: 2025-6-1T00:00:00+00:00
 author: Ma, Weiwei; Oh, Inez Y; Luo, Yixuan; Kumar, Sayantan; Gupta, Aditi; Lai, Albert M.; Puri, Varun; Kreisel, Daniel; Gelman, Andrew E.; Nava, Ruben; Witt, Chad A.; Byers, Derek E.; Halverson, Laura; Vazquez‑Guillamet, Rodrigo; Payne, Philip R.O.; Sotiras, Aristeidis; Lu, Hao; Niazi, Khalid; Gurcan, Metin N.; Hachem, Ramsey R.; Michelson, Andrew P.
 layout: post
 permalink: /2025-6-1‑AIMLCTPDG/

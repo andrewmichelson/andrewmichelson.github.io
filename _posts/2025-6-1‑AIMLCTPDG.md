@@ -8,7 +8,6 @@ categories: publication
 tags: [informatics, artificial intelligence, computer vision, lung transplantation, primary graft dysfunction]
 ---
 
-
 #### Developing approaches to incorporate donor‑lung CT images into ML models to predict severe PGD after lung transplantation <br>
 
 We present a multi‑modal machine learning framework integrating donor‑lung CT imaging and clinical data to predict severe (grade 3) primary graft dysfunction following bilateral lung transplantation. In a retrospective cohort of 160 recipients treated over a 10‑year period, four computer‑vision strategies were assessed; a 3D ResNet model achieved AUROC/AUPRC of 0.63/0.48 (median). Using a late‑fusion approach combining CT features and EHR data improved median AUROC to 0.74 and AUPRC to 0.61, outperforming imaging‑only or clinical‑only models.
@@ -16,3 +15,4 @@ We present a multi‑modal machine learning framework integrating donor‑lung C
 This work supports the added value of CT‑derived imaging phenotypes in donor acceptance decision tools and paves the way toward a clinically deployable decision support system.
 
 [https://doi.org/10.1016/j.ajt.2025.01.039](https://doi.org/10.1016/j.ajt.2025.01.039)
+)
